@@ -1,15 +1,15 @@
-Simple namespace & MRO Python models
-===
-This simple scripts (mro.py and namespaces.py) shows in abstract view how namespaces and MRO principles work in real Python3 interpreter.
+# Python underlying concepts
 
-All the code was created during the "Python: Basics and Application" course (https://stepik.org/course/512/syllabus?auth=login)
+## About
+
+A collection of simple scripts that show how some abstract concepts of Python work in real python3 interpreter.
+
+## For further research 
 
 MRO C3 algorithm deeper explanation: https://habr.com/ru/post/62203/
 
-Usage
-===
-`git clone https://github.com/w1ldy0uth/simple-namespace-MRO-python-models.git`
+## Usage
 
-`cd simple-namespace-MRO-python-models`
-
-`python3 main.py`
+```bash
+python -m main
+````
